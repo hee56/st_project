@@ -1,1 +1,5 @@
-stremlit
+streamlit==1.25.0
+python-pptx==0.6.21
+pdf2image==1.16.3
+Pillow==10.0.1
+
